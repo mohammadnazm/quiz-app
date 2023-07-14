@@ -7,7 +7,8 @@
 }
 
 .Menu,
-.Quiz {
+.Quiz,
+.EndScreen {
   width: 500px;
   height: 500px;
   border-radius: 10px;
@@ -19,7 +20,8 @@
 }
 
 .Menu button,
-.Quiz button {
+.Quiz button,
+.EndScreen button {
   width: 300px;
   height: 50px;
   margin: 5px;
@@ -29,7 +31,8 @@
 }
 
 .Menu,
-.Quiz {
+.Quiz,
+.EndScreen {
   color: white;
 }
 
