@@ -1,2 +1,2 @@
 
-![media io_doVdlvkc (2)](https://github.com/mohammadnazm/quiz-app/assets/63538356/1207e0b3-eb1f-40dd-8a6d-a1609c72e579)
+![media io_99t4sw5H](https://github.com/mohammadnazm/quiz-app/assets/63538356/6487e59d-e8ff-49e1-8b0a-621d5f2c7c6f)
