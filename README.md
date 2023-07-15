@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://imgur.com/vidgif/video?url=https%3A%2F%2Fi.imgur.com%2FmkGGAeH.mp4)https://imgur.com/vidgif/video?url=https%3A%2F%2Fi.imgur.com%2FmkGGAeH.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https%3A%2F%2Fi.imgur.com%2FmkGGAeH.mp4" frameborder="0" allowfullscreen></iframe>
