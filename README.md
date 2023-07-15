@@ -3,8 +3,9 @@
 A quiz app project built with React
 
 <p align="center">
-  <img src="https://github.com/mohammadnazm/quiz-app/assets/63538356/6487e59d-e8ff-49e1-8b0a-621d5f2c7c6f" alt="Your GIF" width="400" />
+  <img src="https://github.com/mohammadnazm/quiz-app/assets/63538356/db6756c3-4954-4191-a83b-bf97197de285" alt="Your GIF" width="400" />
 </p>
+
 
 # Futures
 1. Multiple Question Types.
