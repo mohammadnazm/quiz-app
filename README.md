@@ -1,6 +1,6 @@
 # Quiz App
 
-A quiz app project built with React
+A quiz app with multiple choices and a record tracker.
 
 <p align="center">
   <img src="https://github.com/mohammadnazm/quiz-app/assets/63538356/db6756c3-4954-4191-a83b-bf97197de285" alt="Your GIF" width="400" />
