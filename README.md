@@ -2,10 +2,7 @@
 
 A Quiz App with multiple choices and a record tracker.
 
-<p align="center">
-  <img src="https://github.com/mohammadnazm/quiz-app/assets/63538356/db6756c3-4954-4191-a83b-bf97197de285" alt="Your GIF" width="400" />
-</p>
-
+![ezgif com-gif-maker (3)](https://github.com/mohammadnazm/quiz-app/assets/63538356/228d91d5-843c-4cfc-882b-14a4f4b87523)
 
 # Futures
 1. Multiple Question Types.
